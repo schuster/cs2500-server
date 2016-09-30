@@ -23,6 +23,10 @@ instances of the same "handin" server, originally intended for
 submission only, but the code has since been repurposed for grading as
 well.
 
+## Dependencies
+
+* gregor (Racket package; only needed for auto-deactivate)
+
 ## Initial Server Setup
 
 TODO
